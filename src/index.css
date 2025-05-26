@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.glow-text {
+  transition: text-shadow 0.3s ease-in-out;
+}
+
+.glow-text:hover,
+.glow-text:active {
+  color: #5719E5;
+  text-shadow: 0 0 1px #ffffff;
+}
+
+.glassmorph {
+  background: #5619e50a;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid #5619e53c;
+  border-radius: 1rem;
+  padding: 1.8rem;
+}
