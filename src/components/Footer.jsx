@@ -5,7 +5,7 @@ import tiktokIcon from '../assets/icons/tiktok-svgrepo-com1.svg'
 function Footer(){
     return(
         <>
-            <footer className='border-t border-white/10 backdrop-blur bg-[#313137] text-white px-4 md:px-8 lg:px-16 py-12'>
+            <footer className='border-t border-white/10 backdrop-blur bg-[#121217] text-white px-4 md:px-8 lg:px-16 py-12'>
                 <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
                     {/* Top Links */}
                     <div className=" text-center flex flex-col gap-4 justify-center md:flex-row md:gap-20 text-sm font-medium mb-6">
