@@ -6,7 +6,7 @@ import promoteIcon from '../assets/icons/speaker-ui-svgrepo-com.svg'
 function HowItWorks(){
     return(
         <>
-            <section className='w-full bg-[#121217] text-white px-4 md:px-8 lg:px-16 py-12 sm:py-16'>
+            <section className='w-full bg-[#313137] text-white px-4 md:px-8 lg:px-16 py-12 sm:py-16'>
                 <div className='max-w-7xl mx-auto space-y-6'>
                     <h2 className='text-3xl font-black md:text-4xl'>How <span style={{ color: "#5719E5", WebkitTextStroke: '.5px white'}} className=''>Steamrr</span> Works</h2>
                     <p className='text-gray-300 max-w-3xl'>Streamr provides a comprehensive suite of tools to help artists manage their music, engage with fans, and grow their careers. From uploading your latest tracks to tracking your performance, Streamr has you covered.</p>

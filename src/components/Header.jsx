@@ -5,10 +5,10 @@ function Header() {
     return(
         <>
             {/* Header Section */}
-            {/* style={{ backgroundColor: '#121217' }} */}
+            {/* style={{ backgroundColor: '#121217' 'dddde8' }} */}
             {/* This is React’s way to add inline CSS styles directly to an element. */}
             
-            <header style={{backgroundColor: "#121217"}} className='w-full md:px-24 px-4 py-4 border-b-1 border-white/10'>
+            <header style={{backgroundColor: "#313137"}} className='w-full md:px-24 px-4 py-4 border-b-1 border-white/10'>
                 <div className='max-w-7xl mx-auto flex items-center justify-between'>
 
                     {/* Logo */}

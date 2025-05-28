@@ -4,7 +4,7 @@ function Hero() {
   return (
     <>
       {/* Hero Section */}
-      <section style={{ backgroundColor: "#121217" }} className="w-full text-white px-4 md:px-8 lg:px-16 py-10">
+      <section style={{ backgroundColor: "#313137" }} className="w-full text-white px-4 md:px-8 lg:px-16 py-10">
         <div className="relative w-full max-w-4xl md:max-w-7xl mx-auto flex flex-col justify-center items-center text-center gap-6 md:gap-10 p-10 rounded-xl overflow-hidden min-h-[500px] md:min-h-[600px]"
           style={{
             backgroundImage: `url(${heroImage})`,
